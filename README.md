@@ -12,6 +12,7 @@ you'll also need to download a lot of dependencies:
 - unstructured[all-docs]
 - flask
 - sqlite3
+- googletrans==4.0.0-rc1
 
 you also need the Ollama client ( I was working on Linux so I just curled it curl -fsSL https://ollama.com/install.sh | sh )
 
